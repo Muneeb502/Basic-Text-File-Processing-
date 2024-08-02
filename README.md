@@ -39,3 +39,16 @@ consider keywords like "good", "bad", "excellent", "poor", etc.
 - support: 19
 - packaging: 11
 - delivery: 12
+
+# CONTRIBUTING
+
+Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
+
+
+# AUTHOR
+
+ MUNEEB UR REHMAN   (MUNEEB502)
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/muneeb-ur-rehman-99580b277)
