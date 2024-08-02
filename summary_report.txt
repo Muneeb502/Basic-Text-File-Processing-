@@ -1,0 +1,21 @@
+Total number of feedback entries: 98
+Number of occurrences of each keyword:
+good: 41
+bad: 19
+excellent: 33
+poor: 27
+product: 37
+satisfied: 2
+quickly: 3
+undamaged: 2
+price: 4
+helpful: 3
+fast: 1
+disappointed: 2
+long: 2
+damaged: 3
+experience: 14
+customer: 13
+support: 19
+packaging: 11
+delivery: 12
